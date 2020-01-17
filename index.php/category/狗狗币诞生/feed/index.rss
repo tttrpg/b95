@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>狗狗币诞生</title>
+	<atom:link href="http://tkbb.shenqihailuo.com/index.php/category/%e7%8b%97%e7%8b%97%e5%b8%81%e8%af%9e%e7%94%9f/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tkbb.shenqihailuo.com</link>
+	<description>亚洲的狗狗币 - 亚洲首个自治匿名生态网络社区</description>
+	<lastBuildDate>Fri, 17 Jan 2020 17:06:09 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+
+<image>
+	<url>http://tkbb.shenqihailuo.com/wp-content/uploads/2020/01/cropped-10dfa9ec8a13632717785b9a9b8fa0ec09fac786-1-32x32.png</url>
+	<title>狗狗币诞生</title>
+	<link>http://tkbb.shenqihailuo.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GOGO NETWORK 作为亚洲首个自 治匿名生态价值网络社区的构思与设计。</title>
+		<link>http://tkbb.shenqihailuo.com/index.php/2020/01/18/hello-world/</link>
+				<pubDate>Fri, 17 Jan 2020 16:29:43 +0000</pubDate>
+		<dc:creator><![CDATA[gogo币]]></dc:creator>
+				<category><![CDATA[狗狗币诞生]]></category>
+
+		<guid isPermaLink="false">http://tkbb.shenqihailuo.com/?p=1</guid>
+				<description><![CDATA[GOGO NETWORK，以下简称GGN。GGN是链上匿打赏文 化的实践者，通过组织互助社区，结合社区活动、咨 [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>    GOGO NETWORK，以下简称GGN。GGN是链上匿打赏文 化的实践者，通过组织互助社区，结合社区活动、咨询服务、开 发链上契约产品等方式，解决社区区块链爱好群体信任难、缺载 体、没方法、不自信、担心隐私、无好用工具等问题。基于区块 链网络和社区特性，GOGO NETWORK 能够提供更丰富的业务 和生态模式。 </p>
+
+
+
+<p style="text-align:center"><strong>GOGO NETWORK向狗狗币致敬! </strong></p>
+
+
+
+<p>     GOGO NETWORK 区块链社区是一个去中心化、分布式 的链上互助社区，旨在为各大社群机构和社区会员提供关系上 链、关系匿名服务、内容打赏，内容创作等生态服务。通过一些 入口级项目， 整合行业中的发行、转化、媒介、广告等各渠道资 源，将社区成员的时间精力投入转化为有效产出，建立完整的、 有序、有组织的外部资金来源的共赢经济体系。 </p>
+
+
+
+<p>    GOGO NETWORK 以社区联盟的机制，把优质的社交工 具研发商、内容提供商、应用开发商、优先的内容开发者接入到 统一的生态中达成统一的社群，通过区块链资产标准协议，使用 社群服务、社交工具、使得社交关系沉淀、信任契约上链及其他 社区服务虚拟资产的价值转移，并让这个过程变得更加公平公 正。 </p>
+
+
+
+<p>    GOGO NETWORK提供了一个开放的、可扩展的平台社 区，未来有计划开发属于GOGO NETWORK公链，允许并且鼓励 各类基于社区互助打赏为主题开发的链上应用。GOGO NETWORK 的有效工作量证明和价值为GOGO，链上所有业务都 依赖于GOGO的驱动，而GOGO为ERC-20标准代币。 </p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

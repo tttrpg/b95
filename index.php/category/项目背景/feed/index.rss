@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>项目背景</title>
+	<atom:link href="http://tkbb.shenqihailuo.com/index.php/category/%e9%a1%b9%e7%9b%ae%e8%83%8c%e6%99%af/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tkbb.shenqihailuo.com</link>
+	<description>亚洲的狗狗币 - 亚洲首个自治匿名生态网络社区</description>
+	<lastBuildDate>Fri, 17 Jan 2020 17:06:36 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+
+<image>
+	<url>http://tkbb.shenqihailuo.com/wp-content/uploads/2020/01/cropped-10dfa9ec8a13632717785b9a9b8fa0ec09fac786-1-32x32.png</url>
+	<title>项目背景</title>
+	<link>http://tkbb.shenqihailuo.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>项目背景</title>
+		<link>http://tkbb.shenqihailuo.com/index.php/2020/01/18/%e9%a1%b9%e7%9b%ae%e8%83%8c%e6%99%af/</link>
+				<pubDate>Fri, 17 Jan 2020 17:01:39 +0000</pubDate>
+		<dc:creator><![CDATA[gogo币]]></dc:creator>
+				<category><![CDATA[项目背景]]></category>
+
+		<guid isPermaLink="false">http://tkbb.shenqihailuo.com/?p=37</guid>
+				<description><![CDATA[区块链作为分布式数据存储、点对点传输、共识机制、加密 算法等技术的集成应⽤用，被认为是继⼤大型机、个⼈人电脑、 [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>    区块链作为分布式数据存储、点对点传输、共识机制、加密 算法等技术的集成应⽤用，被认为是继⼤大型机、个⼈人电脑、互联⽹网 之后计算模式的颠覆式创新，很可能在全球范围引起⼀一场新的技 术⾰革新和产业变⾰革。区块链技术起源于化名为&#8221;中本聪&#8221; </p>
+
+
+
+<p>   (Satoshi Nakamoto)的学者在 2008 年年发表的奠基性论⽂文《⽐比 特币⼀一种点对点电⼦子现⾦金金系统》。􏰀义来讲，区块链是⼀一种按照 时间顺序将数据区块以顺序相连的⽅方式组合成的⼀一种链式数据结 构，并以密码学⽅方式保证的不不可篡改和不不可伪造的分布式账本。 ⼴广义来讲，区块链技术是利利⽤用块链式数据结构来验证与存储数 据、利利⽤用分布式节点共识算法来⽣生成和更更新数据、利利⽤用密码学的 ⽅方式保证数据传输和访问的安全、利利⽤用⾃自动化脚本代码组成的智能合约来编程和操作数据的⼀一种全新的分布式基础架构与计算范式。 </p>
+
+
+
+<p>    目前，区块链技术被很多⼤大型机构称为是彻底改变业务乃⾄至机 构运作⽅方式的重⼤大突破性技术。同时，就像云计算、⼤大数据、物 联⽹网等新⼀一代信息技术⼀一样，区块链技术并不不是单⼀一信息技术， ⽽而是依托于现有技术，加以􏰁创性的组合及创新从⽽而实现以前未实现的功能。 </p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
